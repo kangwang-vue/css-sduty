@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(104, 219, 69);
+}
+h1{
+    font-size: 75px;
+    color: rgb(202, 146, 61);
+    text-align:center;
+}
+p{  
+    color:rgb(153, 49, 156);
+    text-align:center;
+    font-size: 50px;
+}
+h2{
+    font-size: 75px;
+    color: rgb(61, 106, 202);
+    text-align:center;
+} 
