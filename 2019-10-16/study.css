@@ -1,0 +1,17 @@
+h1{
+    color: rgb(168, 21, 107);
+    font-size: 50px;
+    text-align: center;;
+}
+div{
+    background-color: rgb(192, 32, 40);
+    font-size: 25px;
+    width: 500px;
+    border: 40px solid rgb(77, 175, 38);
+    padding: 40px;
+    margin: 40px;
+}
+p{
+    color: rgb(85, 206, 37);
+    font-family: fantasy;
+}
